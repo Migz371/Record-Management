@@ -1,4 +1,4 @@
-Final Project for Programming 2 2019
+Final Project for Computer Programming 2 [CCS0007] - Final Project 2019
 
 
 POS:
